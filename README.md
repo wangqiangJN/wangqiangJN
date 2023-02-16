@@ -2,12 +2,11 @@
 
 ### Hi there 
 
-- 🔭 研二在读
+- 🔭 研究生在读
 - 🌱 在推荐领域耕耘
 - 🤔 数据竞赛ing
 -  邮箱：1299052786@qq.com
--  喜欢运动、音乐
--->
+--->
 
 <!--
 **wangqiang-66/wangqiang-66** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
